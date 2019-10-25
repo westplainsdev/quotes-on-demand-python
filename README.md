@@ -1,4 +1,4 @@
-# quotes on demand
+# quotes on demand with python
 
 A fully featuerd VueJS application consuming and saving data to and from a third party API server.
 
@@ -35,7 +35,7 @@ Since Quotes on Demand is technically two applications there are a few steps to 
         putting together the html and javascript for deployment the template literal editor was used to
         give us the ability to edit our Vue html easily and without having to touch the actual literal templates. This worked out well because with a simple selection a new editor window opened with the html, changes could be made, the window would be closed and the template was updated.
 
-3.  With the two extensions installed, the api folder's dependenices downloaded you are now ready to run the application. `npm start` from a console with in the API folder will start up the server.
+3.  With the two extensions installed, the api folder's dependenices downloaded you are now ready to run the application. Type ` run app.py` to run your program from a console within the API folder and this will start up the server.
     From within the UI folder, right click on the index.html file and choose the option of `Open with live server`. The API server will be found on port 5000 and the UI application should be served on port 5500 both on localhost.
 
 ## Notes
