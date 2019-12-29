@@ -2,7 +2,7 @@
 
 This is a simple Python / Flask powered API for web development purposes.
 
-This application is CORS enabled, so all endpoints are open to public consumption. There is no security on the endponts.
+This application is CORS enabled, so all endpoints are open to public consumption. There is no security on the endpoints.
 
 The quotes api itself does support proper HTTP verb endpoints. You should be able to do the following actions:
 
