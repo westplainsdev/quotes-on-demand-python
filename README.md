@@ -21,8 +21,8 @@ This application was created with a couple goals in mind.
 
 Since Quotes on Demand is technically two applications there are a few steps to do before running the application. This application was created using VS Code, so not all steps are applicable.
 
-1.  Change into the API directory and run the command `npm install` to bring down the dependencies
-    necessary for the application to run there. Further instructions can be found within the `README.md` file for that application.
+1.  Change into the API directory and run the command `python app.py` to start up the application. 
+    Further instructions can be found within the `README.md` file for that application.
 
 2.  For the UI directory there are no actual dependencies needed to run the front end. Though you must
     be able to serve up the index.html file. There were two VS Code extensions I used for development
